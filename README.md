@@ -1,1 +1,1 @@
-READ the issues
+READ the [issues](https://github.com/SpiritSaint/JobOffers/issues).
