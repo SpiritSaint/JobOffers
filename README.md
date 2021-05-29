@@ -1,1 +1,1 @@
-READ the [issues](https://github.com/SpiritSaint/JobOffers/issues). [HOWTOJOIN](https://github.com/SpiritSaint/JobOffers/blob/main/HOWTOJOIN.md)
+READ the [issues](https://github.com/SpiritSaint/JobOffers/issues). [How to join](https://github.com/SpiritSaint/JobOffers/blob/main/HOWTOJOIN.md)
